@@ -1,4 +1,6 @@
 //write a program to reverse a linked list
+//Time-Complexity : O(n)
+//Difficulty : Medium
 
 #include <stdio.h>
 #include <stdlib.h>
