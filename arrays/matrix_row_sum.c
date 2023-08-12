@@ -1,7 +1,7 @@
 //Write a program to accept a 3 x 3 matrix and print the sum of individual rows in the matrix
 //Approach : Create a 2-dimensional array
 //Time-Complexity : O(n^2) where n refers to number rows of matrix
-
+//DIfficulty : Medium
 
 #include <stdio.h>
 
