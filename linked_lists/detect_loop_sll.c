@@ -1,5 +1,8 @@
 //detect loop in a linked list
 //the question demands us to detect loop if found
+//Difficulty : Medium
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
