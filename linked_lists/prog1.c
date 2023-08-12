@@ -39,9 +39,9 @@ void find_mid_ele(){
 	}
 	//calculating the middle posititon
 	if(count%2==0)
-		mid_index=count/2;//for even
+		mid_index=(count/2)+1;//for even
 	else
-		mid_index=(count/2)+1;//for odd
+		mid_index=(count/2);//for odd
 	temp=head;
 
 	for(int i=1;i<mid_index;i++){
