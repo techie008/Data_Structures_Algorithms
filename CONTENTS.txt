@@ -1,0 +1,29 @@
+!!CONTENTS!!
+>>STACKS
+1.Polynomial addition using stacks
+2.Bracket Well-orderness using stacks
+3.Sorting a stack
+4.Reversing a whole string(sentence) using stacks
+5.Finding max and min element in stack in O(1) time complexity
+6.Decimal to Binary conversion using stacks
+7.Reverse a stack using recursion
+8.stack-linked_list implementation
+9.Postfix evaluation
+
+>>LINKED LISTS
+1.Couting the occurencess of a given integer
+2.Single Linked List - All operations
+3.Insertion in circular linked list
+4.Find middle element in single linked list
+5.Reverse a single linked list
+6.Reversing a single linked list using carriage return(Trick)
+7.Application based question -1
+8.Detecting loop in single linked list
+
+>>SORTING ALGORITHMS
+1.Bubble Sort
+2.Bubble sort optimized
+3.Selection Sort
+4.Merge Sort
+5.Insertion Sort
+
