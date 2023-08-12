@@ -5,6 +5,7 @@
 //Efficient Approach : Sort the array with a O(logn) sorting algorithm then return the first and last element
 //Time-Complexity : O(logn)
 
+//Difficulty : Medium
 
 #include <stdio.h>
 int main(){
